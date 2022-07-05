@@ -10,7 +10,8 @@ const emojiDictionary = {
   "🔥": "Fire",
   "😤": "Frustrated",
   "🚞": "Mountain Railway",
-  "🛌": "Person Sleeping"
+  "🛌": "Person Sleeping",
+  "🍨": "Ice cream"
 };
 var emojiarr = Object.keys(emojiDictionary);
 export default function App() {
